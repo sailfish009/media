@@ -12,6 +12,7 @@
 #include <atlctrlw.h>
 #include <atlctrlx.h>
 #include <atlddx.h>
+#include <atldlgs.h>
 #include "resource.h"
 #include "AboutDlg.h"
 ////////////////////////////////////////////////////////////////////////////////////////
